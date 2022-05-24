@@ -1,0 +1,2 @@
+host on azure
+
